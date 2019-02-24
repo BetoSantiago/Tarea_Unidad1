@@ -25,7 +25,7 @@ ___
 **4-.** Consiste en almacenar las características de los objetos, por base de la abstracción, y que se encuentran en una clase. Se representan por medio de atributos y métodos.
 
 <p align="center">
-<img width="360" src="Imagenes/encapsulamiento1.JPG">
+<img width="360" src="Imagenes/encapsulamiento1.jpg">
 <img width="360" height="200" src="Imagenes/encapsulamiento2.jpg">
 </p>
 
